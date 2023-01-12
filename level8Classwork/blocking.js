@@ -5,3 +5,4 @@ var data = fs.readFile("input.txt", function (err, data) {
     console.log(data.toString());
 });
 console.log("Program Ended")
+//Sammy Hu, Web Dev Odd 7-8, Blocking and Non Blocking Code
