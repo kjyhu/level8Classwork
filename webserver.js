@@ -19,4 +19,4 @@ http.createServer(function (request, response) {
 }).listen(8081);
 
 console.log("Server running at https://127.0.0.1:8081")
-//Sammy Hu, Web Dev 7-8, Web Server
+//Sammy Hu, Web Dev 7-8, Enhanced Web Server
